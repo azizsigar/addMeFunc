@@ -1,4 +1,4 @@
-well come to addMeFunction.com
+well come to addMeFunction.com  
               # please be:
 !organized, add another solutions under the functions,  
 !use comment line for extra explanation,  
