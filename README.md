@@ -1,6 +1,6 @@
 well come to addMeFunction.com    
   
-              Please be:  
+Please be:  
                 
 !organized, add another solutions under the functions,  
 !use comment line for extra explanation,  
