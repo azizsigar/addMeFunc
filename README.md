@@ -8,4 +8,4 @@ Please be:
 !make a fork and create ur own "branch"  
 !dont push "node_modules"  
 !add algortihm questions for us,  
-!when commitong give a understandeble message,  
+!when commiting give a understandeble message,  
