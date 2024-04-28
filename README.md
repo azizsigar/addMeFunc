@@ -1,5 +1,7 @@
-well come to addMeFunction.com  
-              # please be:
+well come to addMeFunction.com    
+  
+              Please be:  
+                
 !organized, add another solutions under the functions,  
 !use comment line for extra explanation,  
 !dont touch the nodemon jsonlock json,  
