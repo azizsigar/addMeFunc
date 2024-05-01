@@ -1,4 +1,4 @@
-well come to addMeFunction.com    
+wellcome to addMeFunction.com    
   
 Please be:  
                 
