@@ -3,4 +3,4 @@ let arrLength = array.length*2
 for (let i = 0; i <= arrLength; i++) {
 let e = [i]   
 }
-console.log(e)
+console.log(e)//double time array
