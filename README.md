@@ -9,3 +9,4 @@ Please be:
 !dont push "node_modules"  
 !add algortihm questions for us,  
 !when commiting give a understandeble message,  
+!dont create a branch write in `dev`  branch
