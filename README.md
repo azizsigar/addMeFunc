@@ -1,5 +1,5 @@
 wellcome to addMeFunction.com    
-  
+  `nodemon --exec jest`
 Please be:  
                 
 !organized, add another solutions under the functions,  
